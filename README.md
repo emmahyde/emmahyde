@@ -1,7 +1,6 @@
 <h2 align="left">Emma Hyde.</h2>
 
 ```
-the original bread baby
 born and raised in plaintext email
 ```
 
