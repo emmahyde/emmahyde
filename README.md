@@ -1,5 +1,10 @@
 <h2 align="left">Emma Hyde.</h2>
 
+```
+the original bread baby
+born and raised in plaintext email
+```
+
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1kODQ1M3JnNTcyZmtxOWcyNjdwZjRyd3Z0YWRpMGp5YzJscTluciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Nh5jXlMFUhILKKOqC/giphy.gif"  />
